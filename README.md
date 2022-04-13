@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cyb3rlotus
-- 👀 I’m interested in ... pentesting and automation
+- 👀 I’m interested in ... automation and DevOps
 - 🌱 I’m currently learning ... Powershell/ Python 3.x for data scraping/automation
 - 📫 How to reach me ... adventuresawayfromthechaos@gmail.com
 
