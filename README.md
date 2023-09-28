@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cyb3rlotus
 - 👀 I’m interested in ... automation and DevOps
-- 🌱 I’m currently learning ... Powershell/ Python 3.x for data scraping/automation
+- 🌱 I’m currently learning ... Python 3.x with 100 Days of Py
 - 📫 How to reach me ... adventuresawayfromthechaos@gmail.com
 
 <!---
