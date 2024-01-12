@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cyb3rlotus
-- 👀 I’m interested in ... automation and DevOps
-- 🌱 I’m currently learning ... Python 3.x with 100 Days of Py
+- 👀 I’m interested in ... full stack web development
+- 🌱 I’m currently learning ... Django and MongoDB
 - 📫 How to reach me ... adventuresawayfromthechaos@gmail.com
 
 <!---
